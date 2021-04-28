@@ -1,8 +1,4 @@
-Team Members: 
-	Sujhan Ghimire
-	Naveed Sattar
-	Hanvit Choi
-	Misha Rashid
+Created by: Sujhan Ghimire, Clark University '23
 
 					MinEbay
 		A miniature, rip-off version of ebay, and in local directory.
