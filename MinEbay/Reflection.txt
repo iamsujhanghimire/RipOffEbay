@@ -1,0 +1,21 @@
+Final Project Group Reflection 
+CSCI 120 - 04
+Sujhan Ghimire,Naveed Bin Sattar, Hanvit Choi, Misha Nasir Rashid
+
+
+1. What did you learn through creating your project? What went well and what did not go so well? Was anything unexpected?
+
+Ans: In any group project, the most essential skill to develop is working collaboratively with your teammates. We feel like we’ve learnt to do that very well, making use of each other’s strengths, overcoming each other’s weaknesses and delegating tasks fairly. In addition, we’ve learnt to implement concepts from the course into critical thinking and realistic applications. Overall, the project was successful. We encountered a few challenges along the way. Whereas it did require additional effort performing research on new concepts and implementing them, we managed to think coherently in completing the task. 
+
+2. If you worked as a group, how did it go?  Were there unexpected collaboration challenges?
+
+Ans: Working as a group went well, both in terms of performance in completing the project and working cooperatively. A project of this scale required efforts from everyone and everyone performed pleasantly well. The only challenge we faced as a team was deciding appropriate times to meet because everyone has different exam schedules. However, we managed to compromise and work around it without conflict. 
+
+3. How was the process of learning something "new" and building it into your project?
+
+Ans: The process was tedious but worth it. Learning new things, combining them with course concepts and implementing them in real-life situations is the point of the project. After extensive research and planning regarding how to implement new concepts (such as creating a GUI, adding code to the GUI, creating a searching algorithm, etc.), we managed to successfully create a functioning uploading, storing and searching system. 
+
+4. Write a note to yourself that you will re-read before starting your senior capstone.  
+What do you want to remind your future self about handling a self-directed project, especially one that will be larger and more complex?
+
+Ans: Remembering, no matter how well you think you have your idea figured out, write down your ideas and sketch out the framework for your project. Don’t be afraid to learn and implement unfamiliar areas of knowledge, and don’t slack off when doing so. Most importantly, have regular check ins to check project progress and take notes at each step so you may analyze and evaluate your performance and improvements.
